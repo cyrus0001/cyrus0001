@@ -55,11 +55,12 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrus0001&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrus0001&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ff69b4)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus0001&layout=compact&theme=radical&hide_border=true&bg_color=000000&text_color=ffffff)
+
 
 ## Follow Me
 
