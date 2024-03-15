@@ -2,8 +2,6 @@
 
 I'm an Aspiring Software Developer with a strong passion for technology and artificial intelligence. Currently, I'm pursuing my M.Tech in Mathematics and Computer Science at IIT Patna, building upon my foundation in Mathematics with a focus on computer science.
 
-![Profile Picture/GIF](link_to_profile_gif)
-
 ## About Me
 
 - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.
@@ -27,7 +25,9 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 ## Get in Touch
 
 - 💬 Feel free to reach out to me to discuss anything related to technology, AI, or just to have a chat!
-- 📧 You can email me at mintuadak121@gmail.com.
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/cyrus007/).
+- 📧 You can email me at mintuadak@example.com.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mintu-adak).
+
+
 
 
