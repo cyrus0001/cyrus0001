@@ -2,7 +2,10 @@
 
 I'm an Aspiring Software Developer with a strong passion for technology and artificial intelligence. Currently, I'm pursuing my M.Tech in Mathematics and Computer Science at IIT Patna, building upon my foundation in Mathematics with a focus on computer science.
 
-![Profile Picture/GIF](https://www.crn.com/slide-shows/cloud/media_19cac803aaaa0fb36c723da32f390e27a9ff454ff.jpeg?width=750&format=jpeg&optimize=medium)
+<p align="right">
+  <img src="https://www.crn.com/slide-shows/cloud/media_19cac803aaaa0fb36c723da32f390e27a9ff454ff.jpeg?width=750&format=jpeg&optimize=medium" width="200">
+</p>
+
 
 
 
