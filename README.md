@@ -2,11 +2,12 @@
 
 I'm an Aspiring Software Developer with a strong passion for technology and artificial intelligence. Currently, I'm pursuing my M.Tech in Mathematics and Computer Science at IIT Patna, building upon my foundation in Mathematics with a focus on computer science.
 
+
+
+## About Me
 <div align="right">
    <img src="https://www.crn.com/slide-shows/cloud/media_19cac803aaaa0fb36c723da32f390e27a9ff454ff.jpeg?width=750&format=jpeg&optimize=medium" width="200">
 </div>
-
-## About Me
 
 - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.
 - 📚 Currently pursuing M.Tech in Mathematics and Computer Science at IIT Patna.
