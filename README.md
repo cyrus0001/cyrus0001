@@ -25,19 +25,12 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 - 🎥 Watching cricket and football matches.
 
 ## Worked with
-
-<details>
   
   <!-- Python -->
-  <details>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">
-  </details>
   
   <!-- JavaScript -->
-  <details>
-    <summary>JavaScript</summary>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50">
-  </details>
   
   <!-- HTML5 -->
   <details>
