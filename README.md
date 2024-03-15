@@ -2,8 +2,6 @@
 
 I'm an Aspiring Software Developer with a strong passion for technology and artificial intelligence. Currently, I'm pursuing my M.Tech in Mathematics and Computer Science at IIT Patna, building upon my foundation in Mathematics with a focus on computer science.
 
-![Profile Picture/GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crn.com%2Fslide-shows%2Fcloud%2F10-cool-cloud-ai-and-ml-services-you-need-to-know-about&psig=AOvVaw3QNQFaawQaso52tsEDg7uY&ust=1710588330525000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCIxcWU9oQDFQAAAAAdAAAAABAE)
-
 
 ## About Me
 
