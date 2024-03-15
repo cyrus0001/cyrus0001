@@ -27,7 +27,7 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 ## Get in Touch
 
 - 💬 Feel free to reach out to me to discuss anything related to technology, AI, or just to have a chat!
-- 📧 You can email me at mintuadak@example.com.
-- 🔗 Connect with me on [LinkedIn](link_to_linkedin_profile).
+- 📧 You can email me at mintuadak121@gmail.com.
+- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/mintu-adak).
 
 
