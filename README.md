@@ -27,11 +27,9 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 ## Worked with
 
 <details>
-  <summary>Click to see tools and technologies</summary>
   
   <!-- Python -->
   <details>
-    <summary>Python</summary>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">
   </details>
   
