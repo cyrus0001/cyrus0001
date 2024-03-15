@@ -2,14 +2,11 @@
 
 I'm an Aspiring Software Developer with a strong passion for technology and artificial intelligence. Currently, I'm pursuing my M.Tech in Mathematics and Computer Science at IIT Patna, building upon my foundation in Mathematics with a focus on computer science.
 
-<p align="right">
-  <img src="https://www.crn.com/slide-shows/cloud/media_19cac803aaaa0fb36c723da32f390e27a9ff454ff.jpeg?width=750&format=jpeg&optimize=medium" width="200">
-</p>
-
-
-
-
 ## About Me
+
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ArtificialIntelligence_WebBanner.jpg/1200px-ArtificialIntelligence_WebBanner.jpg" alt="Artificial Intelligence" width="200">
+</p>
 
 - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.
 - 📚 Currently pursuing M.Tech in Mathematics and Computer Science at IIT Patna.
@@ -30,33 +27,10 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 - 🎥 Watching cricket and football matches.
 
 ## Worked with
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <div class="logo-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" class="logo" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn Logo" class="logo" width="50">
-  </div>
-</body>
-</html>
 
+<div class="logo-container">
+  <!-- Insert your worked with logos here -->
+</div>
 
 ## GitHub Stats
 
@@ -73,16 +47,4 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 [![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cy_ru_s_007/)
 [![Twitter Badge](https://img.shields.io/badge/-mintu_adak-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MINTUADAK1)
 [![Quora Badge](https://img.shields.io/badge/-Mintu_Adak-red?style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Mintu-Adak-5)
-[![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/cyrus0001/)
-
-
-
-## Get in Touch
-
-- 💬 Feel free to reach out to me to discuss anything related to technology, AI, or just to have a chat!
-- 📧 You can email me at mintuadak121@gmail.com.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mintu-adak).
-
-
-
-
+[![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitH
