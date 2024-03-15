@@ -64,7 +64,7 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 ## Follow Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mintu_Adak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintu-adak)](https://www.linkedin.com/in/mintu-adak)
-[![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mintu_adak)](https://www.instagram.com/mintu_adak)
+[![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/mintu_adak](https://www.instagram.com/cy_ru_s_007/))]([https://www.instagram.com/mintu_adak](https://www.instagram.com/cy_ru_s_007/))
 [![Twitter Badge](https://img.shields.io/badge/-mintu_adak-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mintu_adak)](https://twitter.com/mintu_adak)
 [![Quora Badge](https://img.shields.io/badge/-Mintu_Adak-red?style=flat-square&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Mintu-Adak)](https://www.quora.com/profile/Mintu-Adak)
 [![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/mintuadak)](https://github.com/mintuadak)
