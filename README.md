@@ -4,9 +4,6 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 
 ## About Me
 
-<p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ArtificialIntelligence_WebBanner.jpg/1200px-ArtificialIntelligence_WebBanner.jpg" alt="Artificial Intelligence" width="360">
-</p>
 
 - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.
 - 📚 Currently pursuing M.Tech in Mathematics and Computer Science at IIT Patna.
