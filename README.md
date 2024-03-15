@@ -6,7 +6,7 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 
 ## About Me
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction:row; align-items: center;">
    <img src="https://www.crn.com/slide-shows/cloud/media_19cac803aaaa0fb36c723da32f390e27a9ff454ff.jpeg?width=750&format=jpeg&optimize=medium" width="200" style="margin-right: 20px;">
    <p style="flex: 1;">
       - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.<br>
