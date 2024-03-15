@@ -4,6 +4,9 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 
 ## About Me
 
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ArtificialIntelligence_WebBanner.jpg/1200px-ArtificialIntelligence_WebBanner.jpg" alt="Artificial Intelligence" width="200">
+</p>
 
 - 🎓 Completed M.Sc in Mathematics from Banaras Hindu University.
 - 📚 Currently pursuing M.Tech in Mathematics and Computer Science at IIT Patna.
@@ -44,4 +47,10 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 [![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cy_ru_s_007/)
 [![Twitter Badge](https://img.shields.io/badge/-mintu_adak-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MINTUADAK1)
 [![Quora Badge](https://img.shields.io/badge/-Mintu_Adak-red?style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Mintu-Adak-5)
-[![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitH
+[![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/cyrus0001/)
+
+## Get in Touch
+
+- 💬 Feel free to reach out to me to discuss anything related to technology, AI, or just to have a chat!
+- 📧 You can email me at mintuadak121@gmail.com.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mintu-adak).
