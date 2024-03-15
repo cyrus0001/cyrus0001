@@ -30,16 +30,6 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .logo-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .logo {
-      margin: 10px; 
-    }
   </style>
 </head>
 <body>
