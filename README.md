@@ -30,7 +30,6 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </style>
 </head>
 <body>
   <div class="logo-container">
