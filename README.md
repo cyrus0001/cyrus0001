@@ -64,7 +64,7 @@ I'm an Aspiring Software Developer with a strong passion for technology and arti
 ## Follow Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mintu_Adak-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mintu-adak)
-[![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/min_tu_007//)
+[![Instagram Badge](https://img.shields.io/badge/-mintu_adak-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/min_tu_007/)
 [![Twitter Badge](https://img.shields.io/badge/-mintu_adak-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MINTUADAK1)
 [![Quora Badge](https://img.shields.io/badge/-Mintu_Adak-red?style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Mintu-Adak-5)
 [![GitHub Badge](https://img.shields.io/badge/-mintuadak-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/cyrus0001/)
